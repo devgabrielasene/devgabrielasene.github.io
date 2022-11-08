@@ -1,6 +1,6 @@
 <div align="center">
 
-  # **DEV Gabriela Sene** _Bem-vindos a minha página!_
+  # **DEV Gabriela Sene** <br> _Bem-vindos a minha página!_
   
   <br>
 
